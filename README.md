@@ -1,4 +1,4 @@
-#CS230 Journal
+# CS230 Journal
 
 This is a software requirements reccomendation document for an application commisioned by a company called "The Gaming Room."
 This client wanted to port their existing gaming application to more platforms than just the Android version they currently have, which also required some changes to the server solution.
